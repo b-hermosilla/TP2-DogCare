@@ -13,12 +13,12 @@ Ensuite, il y a les autres Card qui affichent un message, mais il n'y a aucune a
 (Voici les détails sous-forme de points)
 
 Fonctionnalités:
-Compteur de promenades hebdomadaires
-Bouton pour ajouter une promenade
-Bouton pour réinitialiser le compteur
-Switch pour activer/désactiver le mode sombre
-Liste de tâches affichée avec LazyColumn
-Utilisation de la programmation orientée objet (data class DogTask)
+- Compteur de promenades hebdomadaires
+- Bouton pour ajouter une promenade
+- Bouton pour réinitialiser le compteur
+- Switch pour activer/désactiver le mode sombre
+- Liste de tâches affichée avec LazyColumn
+- Utilisation de la programmation orientée objet (data class DogTask)
 
 
 Pour lancer l’application:
